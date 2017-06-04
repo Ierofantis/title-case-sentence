@@ -1,10 +1,11 @@
 {
+
   "name": "title-case-sentence",
   "version": "0.0.1",
   "description": "String title-case-sentence",
   "main": "index.js",
   "scripts": {
-   
+
   },
   "keywords": [
     "titlecase",
@@ -20,7 +21,7 @@
   "author": "Ierofantis",
   "maintainers": [
     {
-      "name": "Theodore",
+      "name": "ierofantis666",
       "email": "teopanta1986@gmail.com"
     }
   ],
