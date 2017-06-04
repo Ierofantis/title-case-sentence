@@ -1,0 +1,33 @@
+{
+  "name": "left-pad",
+  "version": "1.1.3",
+  "description": "String left pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "bench": "node perf/perf.js"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "tape": "*"
+  },
+  "keywords": [
+    "titlecase",
+    "title",
+    "title-case-sentence",
+    "case",
+    "sentence"    
+  ],
+  "repository": {
+    "url": "https://github.com/Ierofantis/title-case-sentence.git",
+    "type": "git"
+  },
+  "author": "Ierofantis",
+  "maintainers": [
+    {
+      "name": "Theodore",
+      "email": "teopanta1986@gmail.com"
+    }
+  ],
+  "license": "WTFPL"
+}
