@@ -1,6 +1,6 @@
-## left-pad
+## title-case-sentence
 
-String left pad
+String title-case-sentence
 
 Time complexity: **O(log(n))**
 
@@ -9,7 +9,7 @@ Time complexity: **O(log(n))**
 ## Install
 
 ```bash
-$ npm install left-pad
+$ npm install title-case-sentence
 ```
 
 ## Usage
