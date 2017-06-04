@@ -1,4 +1,5 @@
 ## title-case-sentence
+## https://www.npmjs.com/package/title-case-sentence
 
 String title-case-sentence
 
