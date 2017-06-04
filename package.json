@@ -1,0 +1,28 @@
+{
+  "name": "title-case-sentence",
+  "version": "0.0.1",
+  "description": "String title-case-sentence",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "keywords": [
+    "titlecase",
+    "title",
+    "title-case-sentence",
+    "case",
+    "sentence"    
+  ],
+  "repository": {
+    "url": "https://github.com/Ierofantis/title-case-sentence.git",
+    "type": "git"
+  },
+  "author": "Ierofantis",
+  "maintainers": [
+    {
+      "name": "Theodore",
+      "email": "teopanta1986@gmail.com"
+    }
+  ],
+  "license": "WTFPL"
+}
